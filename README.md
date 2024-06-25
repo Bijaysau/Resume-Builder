@@ -118,7 +118,7 @@ Folder PATH listing folder src:....
 
 
 # $ Live link $
-https://resume-builder-react-app.vercel.app/
+https://resume-builder-kappa-lac.vercel.app/
 
 
-                                    Thanks!...
+                                    THANKS.....
